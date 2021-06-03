@@ -7,8 +7,8 @@
   <thead>
     <tr>
       <th class="th-sm">NO</th>
-	  <th class="th-sm">IP</th>
-	  <th class="th-sm">Date & Time</th>
+	    <th class="th-sm">IP</th>
+	    <th class="th-sm">Date & Time</th>
     </tr>
   </thead>
   <tbody>
